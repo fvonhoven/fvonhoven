@@ -28,11 +28,11 @@
     <td>
       <h2>Recent React Native Newsletter Issues</h2>
       <ul>
-      <li style="padding: 5px;"><a href="https://reactnative.cc/issues/2020/12-01-2020.html" target="_blank">Issue 121 - November 17, 2020<a/></li>
+      <li style="padding: 5px;"><a href="https://reactnative.cc/issues/2020/12-15-2020.html" target="_blank">Issue 122 - December 15, 2020<a/></li>
+      <li style="padding: 5px;"><a href="https://reactnative.cc/issues/2020/12-01-2020.html" target="_blank">Issue 121 - December 1, 2020<a/></li>
       <li style="padding: 5px;"><a href="https://reactnative.cc/issues/2020/12-01-2020.html" target="_blank">Issue 120 - November 3, 2020<a/></li>
       <li style="padding: 5px;"><a href="https://reactnative.cc/issues/2020/12-01-2020.html" target="_blank">Issue 119 - October 20, 2020<a/></li>
       <li style="padding: 5px;"><a href="https://reactnative.cc/issues/2020/12-01-2020.html" target="_blank">Issue 118 - October 6, 2020<a/></li>
-      <li style="padding: 5px;"><a href="https://reactnative.cc/issues/2020/12-01-2020.html" target="_blank">Issue 117 - September 15, 2020<a/></li>
       </ul>
     </td>
   </tr>
