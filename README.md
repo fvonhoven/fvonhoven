@@ -17,7 +17,7 @@
   </tr>
 </table>
 
-## 📜 &nbsp; Blogs posts
+## 📜 &nbsp; Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 
