@@ -4,13 +4,19 @@
   <td>
 
 <h1 align="center">Hi 👋, I'm Frank</h1>
-<!-- <h3 align="center">a mad scientist in training.</h3> -->
+<!-- <h3 align="center">a developer pushing the limits of AI Agentic Software Development with React Native and React.</h3> -->
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=fvonhoven&color=blue" alt="fvonhoven"/> </p> -->
 
-- 🔭 &nbsp; I’m currently working with **React** and **React Native**.
+- 🔭 &nbsp; I’m currently working with **AI Assited Development** with **Claude, Augment, & Cursor** for **React** and **React Native** apps and sites.
 
-- 💬 &nbsp; Ask me about **React & React Native**
+- 📱 &nbsp; Published developer of [**CrapperMapper**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
+
+- 🎥 &nbsp; Watch me VibeCode websites and React Native apps on [My YouTube Channel](https://www.youtube.com/@frankvonhoven)
+
+- 📖 &nbsp; Checkout my book on AI Coding at [The VibeCoder's Playbook](https://vibecoderplaybook.com)
+
+- 💬 &nbsp; Ask me about **"VibeCoding" with React & React Native**
 - <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/infinite_frank" height="20" width="20" /> &nbsp; <a href="https://twitter.com/coderguyfrank" target="_blank">Follow me on Twitter!</a>
 
 </td>
@@ -62,7 +68,7 @@
 </table> -->
 
 <p align="center">
-<a href="https://twitter.com/infinite_frank" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/infinite_frank" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/frank-von-hoven-iii-a24a3281/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/frank-von-hoven-iii-a24a3281/" height="30" width="30" /></a>
+<a href="https://twitter.com/coderguyfrank" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/coderguyfrank" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/fvonhoven/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/fvonhoven/" height="30" width="30" /></a>
 <a href="https://medium.com/@frankvonhoven" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@frankvonhoven" height="30" width="30" /></a>
 </p>
