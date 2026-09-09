@@ -15,7 +15,7 @@
 
 - 💻 &nbsp; Founder of [**Nexus Development**](https://nexusdevelopment.dev) React, React Native, and AI integration & workflow Consultancy
 
-- 📱 &nbsp; Founder of [**React Native AI Jobs**](https://reactnativeaijobs.com) for finding React Native AI Jobs.
+- 👨‍💻 &nbsp; Founder of [**React Native AI Jobs**](https://reactnativeaijobs.com) for finding React Native AI Jobs.
 
 - 🚽 &nbsp; Published developer of [**TNKL**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
 
