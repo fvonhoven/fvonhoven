@@ -13,9 +13,9 @@
 
 - 📱 &nbsp; Creator of [**Start React Native**](https://startreactnative.com) for getting React Native up and running on any platform.
 
-- 📱 &nbsp; Founder of [**Nexus Development**](https://nexusdevelopment.dev) React, React Native, and Ai integration & workflow Consultancy
+- 💻 &nbsp; Founder of [**Nexus Development**](https://nexusdevelopment.dev) React, React Native, and AI integration & workflow Consultancy
 
-- 📱 &nbsp; Published developer of [**TNKL**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
+- 🚽 &nbsp; Published developer of [**TNKL**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
 
 - 🎥 &nbsp; Watch me VibeCode websites and React Native apps on [My YouTube Channel](https://www.youtube.com/@frankvonhoven)
 
