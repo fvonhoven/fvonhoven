@@ -8,7 +8,12 @@
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=fvonhoven&color=blue" alt="fvonhoven"/> </p> -->
 
-- 🔭 &nbsp; I’m currently working with **AI Assited Development** with **Claude, Augment, & Cursor** for **React** and **React Native** apps and sites.
+- 🔭 &nbsp; I’m currently working with **AI Agentic Workflows & Automations** to create technical solutions to business needs.
+- **AI Assited Development** with **Claude, Augment, & Cursor** for **React** and **React Native** apps and sites.
+
+- 📱 &nbsp; Creator of [**Start React Native**](https://startreactnative.com) for getting React Native up and running on any platform.
+
+- 📱 &nbsp; Founder of [**Nexus Development**](https://nexusdevelopment.dev) React, React Native, and Ai integration & workflow Consultancy
 
 - 📱 &nbsp; Published developer of [**TNKL**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
 
