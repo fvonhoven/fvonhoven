@@ -10,7 +10,7 @@
 
 - 🔭 &nbsp; I’m currently working with **AI Assited Development** with **Claude, Augment, & Cursor** for **React** and **React Native** apps and sites.
 
-- 📱 &nbsp; Published developer of [**CrapperMapper**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
+- 📱 &nbsp; Published developer of [**TNKL**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
 
 - 🎥 &nbsp; Watch me VibeCode websites and React Native apps on [My YouTube Channel](https://www.youtube.com/@frankvonhoven)
 
