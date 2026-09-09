@@ -4,7 +4,7 @@
   <td>
 
 <h1 align="center">Hi 👋, I'm Frank</h1>
-<!-- <h3 align="center">a developer pushing the limits of AI Agentic Software Development with React Native and React.</h3> -->
+<!-- <h3 align="center">a developer pushing the limits of AI Agentic Software Development & workflow automations with React Native and React.</h3> -->
 
 <!-- <p align="center"> <img src="https://komarev.com/ghpvc/?username=fvonhoven&color=blue" alt="fvonhoven"/> </p> -->
 
@@ -15,6 +15,8 @@
 
 - 💻 &nbsp; Founder of [**Nexus Development**](https://nexusdevelopment.dev) React, React Native, and AI integration & workflow Consultancy
 
+- 📱 &nbsp; Founder of [**React Native AI Jobs**](https://reactnativeaijobs.com) for finding React Native AI Jobs.
+
 - 🚽 &nbsp; Published developer of [**TNKL**](https://apps.apple.com/us/app/crapper-mapper/id6744712179) iOS App - The Yelp for bathrooms worldwide.
 
 - 🎥 &nbsp; Watch me VibeCode websites and React Native apps on [My YouTube Channel](https://www.youtube.com/@frankvonhoven)
@@ -22,7 +24,7 @@
 - 📖 &nbsp; Checkout my book on AI Coding at [The VibeCoder's Playbook](https://vibecoderplaybook.com)
 
 - 💬 &nbsp; Ask me about **"VibeCoding" with React & React Native**
-- <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/infinite_frank" height="20" width="20" /> &nbsp; <a href="https://twitter.com/coderguyfrank" target="_blank">Follow me on Twitter!</a>
+- <img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-icon.svg" alt="https://twitter.com/coderguyfrank" height="20" width="20" /> &nbsp; <a href="https://twitter.com/coderguyfrank" target="_blank">Follow me on Twitter!</a>
 
 </td>
   </tr>
