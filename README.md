@@ -44,9 +44,9 @@
   </tr>
 </table> -->
 
-<p><img align="left" style="max-width: 40%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvonhoven&layout=compact&hide=html" alt="fvonhoven" /></p>
+<!-- <p><img align="left" style="max-width: 40%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fvonhoven&layout=compact&hide=html" alt="fvonhoven" /></p>
 
-<p><img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=fvonhoven&show_icons=true" alt="fvonhoven" /></p>
+<p><img align="center" style="max-width: 50%" width="50%" src="https://github-readme-stats.vercel.app/api?username=fvonhoven&show_icons=true" alt="fvonhoven" /></p> -->
 
 <!-- <table>
   <tr>
